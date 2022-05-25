@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in National Taipei University, taking CSIE major.
 - 💞️ I’m looking to collaborate on what I am learning, especially the back end parts.
 - 📫 I can be contacted through my email arief.darmawan360x@gmail.com
-- \(◦'⌣'◦)/ I hope everyone can learn and make project happily at the same time.
+-  \(◦'⌣'◦)/ I hope everyone can learn and make project happily at the same time.
 
 <!---
 arief360x/arief360x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
